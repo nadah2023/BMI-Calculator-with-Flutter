@@ -1,6 +1,6 @@
-# bmi
+#BMI-Calculator-with-Flutter
 
-A new Flutter project.
+Application for University students to calculate Body Mass Index.
 
 ## Getting Started
 
